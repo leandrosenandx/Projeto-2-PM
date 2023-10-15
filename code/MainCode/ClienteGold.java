@@ -1,3 +1,5 @@
+import MainCode.ClienteEspecial;
+
 /**
 * <h1>Cliente Gold</h1>
 * Classe Cliente Gold (subclasse de cliente).

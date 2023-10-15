@@ -1,3 +1,5 @@
+import MainCode.ClienteEspecial;
+
 /**
 * <h1>Cliente VIP</h1>
 * Classe Cliente VIP (subclasse de cliente).
