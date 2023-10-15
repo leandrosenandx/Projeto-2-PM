@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import Conta;
 /**
 * <h1>Cliente Especial</h1>
-* Classe Cliente Especial.
+* Classe Cliente Especial (subclasse de cliente).
 * @author Leandro Sena de Andrade Machado
 * @since 10/10/2023
 */
