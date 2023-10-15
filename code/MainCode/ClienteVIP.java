@@ -2,7 +2,7 @@ import MainCode.ClienteEspecial;
 
 /**
 * <h1>Cliente VIP</h1>
-* Classe Cliente VIP (subclasse de cliente).
+* Classe Cliente VIP (subclasse de cliente especial).
 * @author Gabriel Alejandro Figueiro Galindo.
 * @since 07/10/2023
 */
