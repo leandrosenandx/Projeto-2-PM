@@ -5,7 +5,7 @@ import java.time.LocalDate;
 * @author Leandro Sena de Andrade Machado
 * @since 10/10/2023
 */
-public class ClienteEspecial extends Cliente{
+public abstract class ClienteEspecial extends Cliente{
     protected final double TaxaMensal;//Taxa mensal;
     protected int pontosFidelidade;//Pontos de fidelidade;
     protected int pontosMensais;//Pontos que o Cliente recebe por mês;
