@@ -1,4 +1,10 @@
 import java.time.LocalDate;
+/**
+* <h1>Transacao</h1>
+* Classe Transação para o extrato das contas.
+* @author Gabriel Alejandro Figueiro Galindo
+* @since 13/10/2023
+*/
 class Transacao{
     private LocalDate data;//Data em que a transação ocorreu;
     private String descricao;//Descrição da transação;
