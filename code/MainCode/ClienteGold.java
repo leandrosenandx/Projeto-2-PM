@@ -2,7 +2,7 @@ import MainCode.ClienteEspecial;
 
 /**
 * <h1>Cliente Gold</h1>
-* Classe Cliente Gold (subclasse de cliente).
+* Classe Cliente Gold (subclasse de cliente especial).
 * @author Leandro Sena de Andrade Machado
 * @since 07/10/2023
 */
