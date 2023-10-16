@@ -1,3 +1,4 @@
+import MainCode.Cliente;
 /**
 * <h1>Cliente Regular</h1>
 * Classe Cliente regular (subclasse de cliente).
